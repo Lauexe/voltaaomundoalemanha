@@ -1,0 +1,97 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    text-align: right;
+    width: 350px;
+    height: 200px;
+    margin-left: 12px;
+}
+
+.imagem {
+    background-color: #353535;
+}
+
+.menu {
+    color: #353535;
+    width: 1879px;
+    height: 100px;
+    background-color: #353535;
+}
+
+nav ul {
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+nav ul li {
+    float: left;
+    margin: 4px;
+    padding: 4px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+    width: 350px;
+
+    display: block;
+    text-align: center;
+    padding: 4px;
+    color: rgb((255, 255, 255)255, 255, 255, 0);
+}
+
+nav ul li a:hover {
+    background-color: rgb(255, 238, 0);
+    color: #000000;
+    text-shadow: 1px 1px 2px #ccc;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+}
+   
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.sobre1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: yellow;
+}
+
+.sobre {
+    background-color: #353535;
+}
+
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: white;
+}
+
+.historia {
+    background-color: #353535;
+}
+
+.historia1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: yellow;
+}
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: white;
+}
+
+.presidentes1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
