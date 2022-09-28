@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    background-color: #353535;
+}
+
 img {
     text-align: right;
     width: 350px;
@@ -11,15 +15,10 @@ img {
     margin-left: 12px;
 }
 
-.imagem {
-    background-color: #353535;
-}
-
 .menu {
     color: #353535;
-    width: 1879px;
+    width: 1860px;
     height: 100px;
-    background-color: #353535;
 }
 
 nav ul {
@@ -37,7 +36,7 @@ nav ul li a {
     text-decoration: none;
     font-size: 20px;
     background-color: rgb(255, 0, 0);
-    width: 350px;
+    width: 348px;
 
     display: block;
     text-align: center;
@@ -65,33 +64,48 @@ a:hover {
     color: yellow;
 }
 
-.sobre {
-    background-color: #353535;
-}
-
 .p1 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
     color: white;
-}
-
-.historia {
-    background-color: #353535;
+    letter-spacing: 3px;
+    line-height: 25px;
+    margin: 0 25px;
 }
 
 .historia1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color: yellow;
+    margin-top: 50px;
 }
 
 .p2 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
     color: white;
+    letter-spacing: 3px;
+    line-height: 25px;
+    margin: 0 25px;
 }
 
 .presidentes1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    color: yellow;
+    margin-top: 50px;
+}
+
+.tabela {
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    border: #000000 3px solid;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.tabelatitulo {
+    color: rgb(255, 0, 0);
 }
