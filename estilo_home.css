@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #353535;
+    background-color: rgb(237, 240, 223);
 }
 
 img {
@@ -61,13 +61,13 @@ a:hover {
 .sobre1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: yellow;
+    color: red;
 }
 
 .p1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
-    color: white;
+    color: black;
     letter-spacing: 3px;
     line-height: 25px;
     margin: 0 25px;
@@ -76,14 +76,14 @@ a:hover {
 .historia1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: yellow;
+    color: red;
     margin-top: 50px;
 }
 
 .p2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
-    color: white;
+    color: black;
     letter-spacing: 3px;
     line-height: 25px;
     margin: 0 25px;
@@ -92,13 +92,13 @@ a:hover {
 .presidentes1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: yellow;
+    color: red;
     margin-top: 50px;
 }
 
 .tabela {
     text-align: center;
-    color: white;
+    color: black;
     line-height: 25px;
     border: #000000 3px solid;
     width: 95%;
