@@ -51,6 +51,11 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
+a:visited { 
+    text-decoration: none; 
+    color: rgb(255, 255, 255);
+}
+
 .sobre1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -61,7 +66,7 @@ img {
     text-align: right;
     width: 350px;
     height: 200px;
-    margin-left: 758px;
+    margin-left: 755px;
 }
 
 .linha {

@@ -1,0 +1,119 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(237, 240, 223);
+}
+
+img {
+    text-align: right;
+    width: 350px;
+    height: 200px;
+    margin-left: 1500px;
+}
+
+.menu {
+    color: #353535;
+    width: 1860px;
+    height: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+nav ul li {
+    float: left;
+    margin: 4px;
+    padding: 4px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+    width: 348px;
+
+    display: block;
+    text-align: center;
+    padding: 4px;
+    color: rgb((255, 255, 255)255, 255, 255, 0);
+}
+
+nav ul li a:hover {
+    background-color: rgb(255, 238, 0);
+    color: #000000;
+    text-shadow: 1px 1px 2px #ccc;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+}
+   
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: rgb(255, 255, 255);
+}
+
+.sobre1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+
+.p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: black;
+    letter-spacing: 3px;
+    line-height: 50px;
+    margin: 0 25px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.historia1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+}
+
+.p2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: black;
+    letter-spacing: 3px;
+    line-height: 25px;
+    margin: 0 25px;
+}
+
+.presidentes1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+}
+
+.tabela {
+    text-align: center;
+    color: black;
+    line-height: 25px;
+    border: #000000 3px solid;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.tabelatitulo {
+    color: rgb(255, 0, 0);
+}
